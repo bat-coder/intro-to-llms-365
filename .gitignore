@@ -1,0 +1,16 @@
+// filepath: d:\sb\GitHub\intro-to-llms-365\.gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+myconfig.py
+config.py
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
