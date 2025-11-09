@@ -14,3 +14,11 @@ config.py
 
 # VS Code
 .vscode/
+
+#model files
+config.json
+model.safetensors
+special_tokens_map.json
+tokenizer_config.json
+vocab.txt
+tokenizer.json
